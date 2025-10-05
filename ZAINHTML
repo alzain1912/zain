@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html> 
+<title></title>
+<head></head>
+<body>
+<header>
+  <hee1> welcome to Dm6032</hee1>
+  <p> tutor info
+     <br> Tutor email :<br> zainxx.1904@gmail.com
+    <hr><br>office hours
+  <br> sunday 2 to 4
+  <br>tuesday from 1 to 2
+  <br>wednesday from 3 to 4<hr>
+<br>office location 
+  
+  <br> campus A building 20A, office no.104</p>
+
+  
+ 
+<nav>
+<ul>
+ <li> <a href=" about me"> about me </a> 
+  <li> <a href="my project"> my project</a>
+  <li> <a href="contact me"> contact me 
+</a>
+</ul>
+  </nav>
+  
+  
+<table border="5">
+<tr>
+  <th>office hours</th>
+  <td> sunday 2 to 4PM</td>
+  <td> tuesday 1 to 2pm </td>
+  <td> wednesday 3 to 4PM</td>
+  </tr>
+  </table>
+  
+    
+<section id="media">
+  <h2> video </h2>
+  
+‏<iframe width="560" height="315" src="https://www.youtube.com/embed/nS7-GgQrqRY?si=0wl0Tpb4Bo8pzDUK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </iframe>
+  </section>
+  
+</body>
+</html>
